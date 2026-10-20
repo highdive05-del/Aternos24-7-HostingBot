@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "highdivesmp.aternos.me",
+    "port": 38489,
     "version": "",
     "try-creative": false
   },
